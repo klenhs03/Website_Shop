@@ -1,0 +1,17 @@
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.BusinessLayers.deps.json
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.BusinessLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.BusinessLayers.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.DataLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.DomainModels.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.DataLayers.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\bin\Debug\net8.0\WebsiteShop.DomainModels.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.csproj.AssemblyReference.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.AssemblyInfoInputs.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.AssemblyInfo.cs
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteS.17D518AB.Up2Date
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\refint\WebsiteShop.BusinessLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\WebsiteShop.BusinessLayers.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.BusinessLayers\obj\Debug\net8.0\ref\WebsiteShop.BusinessLayers.dll

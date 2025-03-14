@@ -1,0 +1,67 @@
+﻿@model WebsiteShop.DomainModels.Supplier 
+
+@{
+    
+}
+    
+
+<div class="box box-primary">
+     <div class="box-body">
+        <form action="~/Supplier/Save" method="post">
+            <input type="hidden" name="@nameof(Model.SupplierID)" value="@Model.SupplierID" />
+            <div class="form-group">
+                <label>Tên nhà cung cấp: @Html.ValidationMessage(nameof(Model.SupplierName), new { @style = "color: #f00" })</label>
+                <input type="text" class="form-control" autofocus name="@nameof(Model.SupplierName)" value="@Model.SupplierName">
+            </div>
+            <div class="form-group">
+                <label>Tên giao dịch: @Html.ValidationMessage(nameof(Model.ContactName), new { @style = "color: red" })</label>
+                <input type="text" class="form-control" name="@nameof(Model.ContactName)" value="@Model.ContactName">
+                
+            </div>
+            <div class="form-group">
+                <label>Điện thoại: @Html.ValidationMessage(nameof(Model.Phone), new { @style = "color: red" })</label>
+                <input type="text" class="form-control" name="@nameof(Model.Phone)" value="@Model.Phone">
+                
+            </div>
+            <div class="form-group">
+                <label>Email: @Html.ValidationMessage(nameof(Model.Email), new { @style = "color: red" })</label>
+                <input type="email" class="form-control" name="@nameof(Model.Email)" value="@Model.Email">
+                
+                @Html.ValidationMessage("InvalidEmail", new { @style = "color: #f00" })
+            </div>
+            <div class="form-group">
+                <label>Địa chỉ: @Html.ValidationMessage(nameof(Model.Address), new { @style = "color: red" })</label>
+                <input type="text" class="form-control" name="@nameof(Model.Address)" value="@Model.Address">
+                
+            </div>
+            <div class="form-group">
+                <label>Tỉnh thành: @Html.ValidationMessage(nameof(Model.Provice), new { @style = "color: red" })</label>
+                <select class="form-control" name="@nameof(Model.Provice)">
+                    <option value="Thừa Thiên Huế">Chọn tỉnh thành</option>
+                    @foreach (var item in WebsiteShop.BusinessLayers.CommonDataService.ListOfProvinces())
+                    {
+                        if (item.ProvinceName == Model.Provice)
+                        {
+                            <option value="@item.ProvinceName" selected>@item.ProvinceName</option>
+                        }
+                        else
+                        {
+                            <option value="@item.ProvinceName">@item.ProvinceName</option>
+                        }
+                    }
+                </select>
+                  
+            </div>
+           
+            <div class="form-group text-right">
+            <button type="submit" class="btn btn-primary">
+                <i class="fa fa-floppy-o"> Lưu dữ liệu</i>
+            </button>
+            <a href="~/Supplier" class="btn btn-default">Quay lại </a>
+            </div>
+        </form>
+
+</div>
+</div>
+
+

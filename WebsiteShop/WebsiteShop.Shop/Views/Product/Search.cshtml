@@ -1,0 +1,66 @@
+﻿@model WebsiteShop.Shop.Models.ProductSearchResult
+@{
+    Layout = null;
+}
+
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-7">
+                <div class="filter__item">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="filter__found">
+                                <h6><span>@Model.RowCount</span> Products found</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    @foreach (var item in Model.Data)
+                    {
+                        <div class="col-lg-4 col-md-6 col-sm-12">
+                            <div class="product__item">
+                                <!-- Nhấn vào hình ảnh sản phẩm sẽ dẫn đến trang chi tiết -->
+                                <div class="product__item__pic"
+                                     style="background-image: url('@Url.Content("~/images/products/" + item.Photo)');"
+                                     onclick="window.location.href='/Product/Details/@item.ProductID'"
+                                     style="cursor: pointer;">
+                                    <ul class="product__item__pic__hover">
+                                        <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                    </ul>
+                                </div>
+                                <div class="product__item__text">
+                                    <!-- Liên kết tiêu đề dẫn đến trang chi tiết -->
+                                    <h6><a href="/Product/Details/@item.ProductID">@item.ProductName</a></h6>
+                                    <h5>@item.Price.ToString("N0")</h5>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+            </div>
+            <div class="text-center">
+                <ul class="pagination">
+                    @for (int p = 1; p <= Model.PageCount; p++)
+                    {
+                        if (p == Model.Page)
+                        {
+                            <li class="page-item active"><a class="page-link" href="#">@p</a></li>
+                        }
+                        else
+                        {
+                            <li class="page-item"><a class="page-link" href="javascript:;" onclick="doSearch(@p)">@p</a></li>
+                        }
+                    }
+                    @if (Model.Page < Model.PageCount)
+                    {
+                        <li class="page-item"><a class="page-link" href="javascript:;" onclick="doSearch(@(Model.Page + 1))"><i class="fa fa-long-arrow-right"></i></a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+

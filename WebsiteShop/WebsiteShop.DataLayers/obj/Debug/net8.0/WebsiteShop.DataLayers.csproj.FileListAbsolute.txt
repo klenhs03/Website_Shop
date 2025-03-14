@@ -1,0 +1,15 @@
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\bin\Debug\net8.0\WebsiteShop.DataLayers.deps.json
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\bin\Debug\net8.0\WebsiteShop.DataLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\bin\Debug\net8.0\WebsiteShop.DataLayers.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\bin\Debug\net8.0\WebsiteShop.DomainModels.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\bin\Debug\net8.0\WebsiteShop.DomainModels.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.csproj.AssemblyReference.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.AssemblyInfoInputs.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.AssemblyInfo.cs
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.csproj.CoreCompileInputs.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteS.84C76BC0.Up2Date
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\refint\WebsiteShop.DataLayers.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\WebsiteShop.DataLayers.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.DataLayers\obj\Debug\net8.0\ref\WebsiteShop.DataLayers.dll

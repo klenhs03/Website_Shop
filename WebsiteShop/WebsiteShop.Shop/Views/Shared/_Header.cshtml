@@ -1,0 +1,92 @@
+﻿@using WebsiteShop.Shop.AppCode
+<header class="header">
+    <div class="header__top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="header__top__left">                        
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="header__top__right">
+                        <div class="header__top__right__social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                        </div>
+                        <div class="header__top__right__language">
+                            <img src="@Url.Content("~/_LayoutOrgan/img/language.png")" alt="Language">
+                            <div>English</div>
+                            <span class="arrow_carrot-down"></span>
+                            <ul>
+                                <li><a href="#">Spanis</a></li>
+                                <li><a href="#">English</a></li>
+                            </ul>
+                        </div>
+                        @{
+                            var userData = User.GetUserData();
+                        }
+                        @if (userData != null)
+                        {
+                            <div class="header__top__right__auth">
+                                <i class="fa fa-user"></i>
+                                <div id="username-display">@userData?.DisplayName</div>
+                                <span class="arrow_carrot-down"></span>
+                                <ul>
+                                    <li><a href="@Url.Action("Profile", "Account", new { id = userData.UserId })">Profile</a></li>
+                                    <li><a href="~/Account/ChangePassword">Change Password</a></li>
+                                    <li><a href="~/Account/Logout">Logout</a></li>
+                                </ul>
+                            </div>
+                        }
+                        else
+                        {
+                            <!-- Display login icon and Login link when logged out -->
+                            <i class="fa fa-user"></i>
+                            <a href="~/Account/Login">Login</a>
+                        }
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="header__logo">
+                   <h2>KK SHOP</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <nav class="header__menu">
+                    <ul>
+                        <li class="active"><a href="~/Home">Home</a></li>
+                        <li><a href="~/Product">Shop</a></li>
+                        <li>
+                            <a href="#">Pages</a>
+                            <ul class="header__menu__dropdown">
+                                <li><a href="~/Product/Details">Shop Details</a></li>
+                                <li><a href="~/Order/ShoppingCart">Shopping Cart</a></li>
+                                <li><a href="~/CheckOut/Index">Checkout</a></li>
+                                <li><a href="~/Order/Tracking">Tracking</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-lg-3">
+                <div class="header__cart">
+                    <ul>
+                        <li><a href="~/Order/ShoppingCart"><i class="fa fa-shopping-bag"></i> <span></span></a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="humberger__open">
+            <i class="fa fa-bars"></i>
+        </div>
+    </div>
+</header>

@@ -1,0 +1,2457 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsiteShop.Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteShop.Shop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\css\\style.css",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\View.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\View.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog 5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog 5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\blog6.png",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\blog6.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\bn1.png",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\bn1.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\language.png",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\language.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\logo.png",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\main.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\_LayoutOrgan\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\_LayoutOrgan\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\responsive.css.map",
+      "PackagePath": "staticwebassets\\css\\responsive.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\ui.css",
+      "PackagePath": "staticwebassets\\css\\ui.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\css\\ui.css.map",
+      "PackagePath": "staticwebassets\\css\\ui.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\roboto\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\fonts\\roboto\\font.css",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\font.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\avatars\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\avatars\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\avatars\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\21T1020894_NguyenBinhKhanhNhien.pdf",
+      "PackagePath": "staticwebassets\\images\\banners\\21T1020894_NguyenBinhKhanhNhien.pdf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\ad-sm.png",
+      "PackagePath": "staticwebassets\\images\\banners\\ad-sm.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\ad.png",
+      "PackagePath": "staticwebassets\\images\\banners\\ad.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner5.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner7.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner7.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner8.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner8.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\banner9.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner9.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\banners\\slide3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638653602348723155-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638653602348723155-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638653614613009131-no photo.png",
+      "PackagePath": "staticwebassets\\images\\employees\\638653614613009131-no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638653617802648365-638653602348723155-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638653617802648365-638653602348723155-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638657475529136695-638653602348723155-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638657475529136695-638653602348723155-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638657475735806107-no photo.png",
+      "PackagePath": "staticwebassets\\images\\employees\\638657475735806107-no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638657476092911559-638653614613009131-no photo.png",
+      "PackagePath": "staticwebassets\\images\\employees\\638657476092911559-638653614613009131-no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638665241613385088-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638665241613385088-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638665623974878468-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638665623974878468-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638665666878557149-9781107625082.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638665666878557149-9781107625082.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638665667052580822-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638665667052580822-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638671665236934286-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638671665236934286-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638671665456395290-9781009275187.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638671665456395290-9781009275187.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638695883707654048-9781108781619.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638695883707654048-9781108781619.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638695883798742730-9781107625082.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638695883798742730-9781107625082.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638695965296224162-9780521179485.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638695965296224162-9780521179485.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\638695965588173147-9781009275187.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\638695965588173147-9781009275187.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\employees\\no photo.png",
+      "PackagePath": "staticwebassets\\images\\employees\\no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\AU@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\CN.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\CN.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\CN@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\CN@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\DE@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\GB@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\IN.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\IN.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\IN@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\IN@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\RU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\RU.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\RU@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\RU@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\TR.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\TR.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\TR@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\TR@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\US@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\UZ.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\UZ.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\flags\\UZ@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\UZ@2x.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\pay-american-ex.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-american-ex.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\pay-bank.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-bank.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\pay-mastercard.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-mastercard.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\pay-visa-el.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-visa-el.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\icons\\pay-visa.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-visa.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\10.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\11.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\12.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\13.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\14.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\15-2.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\7.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\8.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\items\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\9.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\misc\\appstore.png",
+      "PackagePath": "staticwebassets\\images\\misc\\appstore.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\misc\\payments.png",
+      "PackagePath": "staticwebassets\\images\\misc\\payments.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\misc\\playmarket.png",
+      "PackagePath": "staticwebassets\\images\\misc\\playmarket.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\posts\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\posts\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\posts\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\posts\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638671412267424539_macbook-air-2020_800x450.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638671412267424539_macbook-air-2020_800x450.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638671415744752650_logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638671415744752650_logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638671421327916195_macbook-air-2020_800x450.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638671421327916195_macbook-air-2020_800x450.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638677785502445542_9780521179485.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638677785502445542_9780521179485.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638677785697221645_9781009275187.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638677785697221645_9781009275187.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638677788964967990_9781107625082.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638677788964967990_9781107625082.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638695885607451941_9780521179560.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638695885607451941_9780521179560.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638695920796419979_9781108781619.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638695920796419979_9781108781619.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638695920977982613_9781108781619.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638695920977982613_9781108781619.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638695966795321028_9781108933810.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638695966795321028_9781108933810.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\638695967106060234_9780521179560.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\638695967106060234_9780521179560.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\macbook-air-2020_800x450.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\macbook-air-2020_800x450.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\images\\products\\no photo.png",
+      "PackagePath": "staticwebassets\\images\\products\\no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\js\\jquery-2.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.0.0.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\_variables-custom.scss",
+      "PackagePath": "staticwebassets\\sass\\_variables-custom.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_alert.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_badge.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_card.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_card.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_close.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_close.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_code.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_code.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_functions.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_images.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_images.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_media.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_media.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_modal.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_nav.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_popover.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_print.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_print.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_progress.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_root.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_root.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_transitions.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_type.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_type.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap-assets\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-assets\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_cards-item.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_cards-item.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_elements.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_elements.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_items.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_items.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_menu.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_menu.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\components\\_plugin-styles.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\components\\_plugin-styles.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\helpers\\_bg.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_bg.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\helpers\\_helper-classes.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_helper-classes.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\helpers\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\helpers\\_typography.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\helpers\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\pages\\_page-account.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-account.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\pages\\_page-base.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-base.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\pages\\_page-detail.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-detail.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\pages\\_page-home.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-home.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\pages\\_page-listing.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-listing.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\pages\\_page-order.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\pages\\_page-order.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\sections\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\sections\\_header.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui-assets\\sections\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\ui-assets\\sections\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\sass\\ui.scss",
+      "PackagePath": "staticwebassets\\sass\\ui.scss"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\css\\style.css",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\View.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\View.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog 5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog 5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\bn1.png",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\bn1.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\language.png",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\language.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\logo.png",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\main.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\_LayoutOrgan\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\_LayoutOrgan\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638653602348723155-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638653602348723155-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638653614613009131-no photo.png",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638653614613009131-no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638653617802648365-638653602348723155-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638653617802648365-638653602348723155-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638657475529136695-638653602348723155-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638657475529136695-638653602348723155-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638657475735806107-no photo.png",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638657475735806107-no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638657476092911559-638653614613009131-no photo.png",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638657476092911559-638653614613009131-no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638665241613385088-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638665241613385088-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638665623974878468-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638665623974878468-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638665666878557149-9781107625082.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638665666878557149-9781107625082.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638665667052580822-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638665667052580822-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638671665236934286-logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638671665236934286-logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638671665456395290-9781009275187.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638671665456395290-9781009275187.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638695883707654048-9781108781619.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638695883707654048-9781108781619.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638695883798742730-9781107625082.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638695883798742730-9781107625082.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638695965296224162-9780521179485.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638695965296224162-9780521179485.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\638695965588173147-9781009275187.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\638695965588173147-9781009275187.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\employees\\no photo.png",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\employees\\no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638671412267424539_macbook-air-2020_800x450.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638671412267424539_macbook-air-2020_800x450.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638671415744752650_logo ban hieu.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638671415744752650_logo ban hieu.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638671421327916195_macbook-air-2020_800x450.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638671421327916195_macbook-air-2020_800x450.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638677785502445542_9780521179485.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638677785502445542_9780521179485.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638677785697221645_9781009275187.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638677785697221645_9781009275187.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638677788964967990_9781107625082.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638677788964967990_9781107625082.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638695885607451941_9780521179560.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638695885607451941_9780521179560.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638695920796419979_9781108781619.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638695920796419979_9781108781619.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638695920977982613_9781108781619.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638695920977982613_9781108781619.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638695966795321028_9781108933810.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638695966795321028_9781108933810.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\638695967106060234_9780521179560.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\638695967106060234_9780521179560.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\macbook-air-2020_800x450.jpg",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\macbook-air-2020_800x450.jpg"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\images\\products\\no photo.png",
+      "PackagePath": "staticwebassets\\wwwroot\\images\\products\\no photo.png"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Website_Shop\\WebsiteShop\\WebsiteShop.Shop\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsiteShop.Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebsiteShop.Shop.props",
+      "PackagePath": "build\\WebsiteShop.Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteShop.Shop.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteShop.Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebsiteShop.Shop.props",
+      "PackagePath": "buildTransitive\\WebsiteShop.Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

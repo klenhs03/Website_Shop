@@ -1,0 +1,12 @@
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\bin\Debug\net8.0\WebsiteShop.DomainModels.deps.json
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\bin\Debug\net8.0\WebsiteShop.DomainModels.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\bin\Debug\net8.0\WebsiteShop.DomainModels.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.csproj.AssemblyReference.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.AssemblyInfoInputs.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.AssemblyInfo.cs
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.csproj.CoreCompileInputs.cache
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\refint\WebsiteShop.DomainModels.dll
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\WebsiteShop.DomainModels.pdb
+D:\Website_Shop\WebsiteShop\WebsiteShop.DomainModels\obj\Debug\net8.0\ref\WebsiteShop.DomainModels.dll

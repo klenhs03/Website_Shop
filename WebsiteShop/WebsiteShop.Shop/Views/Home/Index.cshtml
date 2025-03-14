@@ -1,0 +1,82 @@
+﻿@model WebsiteShop.Shop.Models.HomeViewModel
+@{
+    ViewBag.Title = " Home Page";
+}
+
+<!-- Hero Section Begin -->
+    <section class="hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hero__item set-bg" data-setbg="@Url.Content("~/images/5.png")">
+                        <div class="hero__text">
+                            <h2>KimKhanh Shop</h2>
+                            <a href="~/Product/Index" class="primary-btn">SHOP NOW</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hero Section End -->
+
+    <!-- Blog Section Begin -->
+    <section class="from-blog spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title from-blog__title">
+                        <h2>From The Blog</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                            <img src="@Url.Content("~/_LayoutOrgan/img/blog/blog1.jpg")" alt="">
+                        </div>
+                        <div class="blog__item__text">
+                            <ul>
+                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
+                                </br>
+                            </ul>
+                        <h5><a href="#">Bán hàng online lên ngôi</a></h5>
+                        <p>Xu hướng bán hàng online đã được các doanh nghiệp tích cực cập nhật và sử dụng rất phổ biến để thu hút người tiêu dùng</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                            <img src="@Url.Content("~/_LayoutOrgan/img/blog/blog4.jpg")" alt="">
+                        </div>
+                        <div class="blog__item__text">
+                            <ul>
+                                <li><i class="fa fa-calendar-o"></i> Jan 9,2020</li>
+                                </br>
+                            </ul>
+                        <h5><a href="#">Thời trang trực tuyến trên Shopee của giới trẻ hiện nay</a></h5>
+                        <p>Sự phát triển mạnh mẽ của công nghệ thông tin (CNTT) đã thúc đẩy sự bùng nổ của phương thức kinh doanh qua internet (TMĐT)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="blog__item">
+                        <div class="blog__item__pic">
+                            <img src="@Url.Content("~/_LayoutOrgan/img/blog/blog6.png")" alt="">
+                        </div>
+                        <div class="blog__item__text">
+                            <ul>
+                                <li><i class="fa fa-calendar-o"></i> March 5,2021</li>
+                                </br>
+                            </ul>
+                        <h5><a href="#">Sàn thương mại điện tử đua nhau giảm giá trước thềm 8/3</a></h5>
+                        <p>Trước thềm Ngày Quốc tế Phụ nữ (8/3), hàng loạt chương trình giảm giá, khuyến mại đã được các nhãn hàng, doanh nghiệp tung ra từ sớm</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Blog Section End -->

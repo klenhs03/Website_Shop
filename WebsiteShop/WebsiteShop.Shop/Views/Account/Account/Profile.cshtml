@@ -1,0 +1,80 @@
+﻿@model WebsiteShop.DomainModels.Customer
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg" data-setbg="@Url.Content("~/_LayoutOrgan/img//breadcrumb.jpg")">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Profile</h2>
+                    <div class="breadcrumb__option">
+                        <a href="~/Home">Home</a>
+                        <span>Profile</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+
+<section class="checkout spad">
+    <div class="container">
+        <div class="row">
+            <!-- Các trường thông tin profile -->
+        </div>
+        <div class="checkout__form">
+            <h4>Profile Details</h4>
+            <form action="~/Account/SaveProfile" method="post">
+                <input type="hidden" name="@nameof(Model.CustomerID)" value="@Model.CustomerID" />
+                <div class="row">
+                    <div class="col-lg-10 col-md-6">
+                        <div class="checkout__input">
+                            <p>Customer Name<span>*</span></p>
+                            <input type="text" name="@nameof(Model.CustomerName)" value="@Model.CustomerName" required>
+                            @Html.ValidationMessage(nameof(Model.CustomerName))
+                        </div>
+                        <div class="checkout__input">
+                            <p>Email<span>*</span></p>
+                            <input type="email" name="@nameof(Model.Email)" value="@Model.Email" required>
+                            @Html.ValidationMessage(nameof(Model.Email))
+                        </div>
+                        <div class="checkout__input">
+                            <p>Phone Number<span>*</span></p>
+                            <input type="text" name="@nameof(Model.Phone)" value="@Model.Phone" required>
+                            @Html.ValidationMessage(nameof(Model.Phone))
+                        </div>
+                        <div class="checkout__input">
+                            <p>Address<span>*</span></p>
+                            <input type="text" name="@nameof(Model.Address)" value="@Model.Address" placeholder="Your Address" required>
+                            @Html.ValidationMessage(nameof(Model.Address))
+                        </div>
+                        <div class="checkout__input">
+                            <p>Province/City<span>*</span></p>
+                            <select class="form-control" name="@nameof(Model.Province)" required>
+                                <option value="">-- Choose your Province --</option>
+                                @foreach (var province in WebsiteShop.BusinessLayers.CommonDataService.ListOfProvinces())
+                                {
+                                    if (province.ProvinceName == Model.Province)
+                                    {
+                                        <option selected value="@province.ProvinceName">@province.ProvinceName</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@province.ProvinceName">@province.ProvinceName</option>
+                                    }
+                                }
+                            </select>
+                            @Html.ValidationMessage(nameof(Model.Province))
+                        </div>
+                        <button type="submit" class="site-btn">Update Profile</button>
+                        <a href="~/Home" class="btn btn-default">
+                            Quay lại
+                        </a>
+                    </div>
+                </div>
+                @Html.ValidationMessage("Error")
+            </form>
+        </div>
+    </div>
+</section>
